@@ -32,6 +32,6 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/home/adam/workspace/odm/target/odm-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/home/adam/workspace/odm-usage-example/odm-0.0.1-SNAPSHOT.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
