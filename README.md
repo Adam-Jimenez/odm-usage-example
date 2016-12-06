@@ -63,7 +63,7 @@ object.delete();
 
 ## History
 
-This project started as a school project
+This project started as a school project.
 
 ## Credits
 
