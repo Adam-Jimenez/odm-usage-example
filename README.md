@@ -2,6 +2,8 @@
 
 This is a project showing a way you can use ODM, a lightweight and unintrusive Object-Document Mapper.
 
+Note: in order to run this, you must first clone odm, run ``` mvn package ``` on it and then change the classpath entry referencing the odm
+
 ## Installation
 1. Have MongoDb installed and running
 2. Create or modify the dbConfig.cfg file in the root of the project to configure the connection to MongoDb. It must contain the following:
