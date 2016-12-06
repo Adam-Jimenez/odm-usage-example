@@ -2,7 +2,7 @@
 
 This is a project showing a way you can use ODM, a lightweight and unintrusive Object-Document Mapper.
 
-Note: in order to run this, you must first clone odm, run ``` mvn package ``` on it and then change the classpath entry referencing the odm
+Note: in order to run this, you must first clone [odm](https://github.com/Adam-Jimenez/odm), run ``` mvn package ``` on it and then change the classpath entry referencing the odm
 
 ## Installation
 1. Have MongoDb installed and running
